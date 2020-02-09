@@ -8,10 +8,10 @@ const RESOURCES = {
 "/assets/google_fonts/Montserrat-Medium.ttf": "c8b6e083af3f94009801989c3739425e",
 "/assets/google_fonts/Montserrat-Light.ttf": "409c7f79a42e56c785f50ed37535f0be",
 "/assets/google_fonts/Montserrat-Regular.ttf": "ee6539921d713482b8ccd4d0d23961bb",
-"/icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"/icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"/icons/Icon-192.png": "812fe213f59c46c85764f5fcd890e4d4",
+"/icons/Icon-512.png": "fc2d343b9cd48508fae73beb4c8d4350",
 "/manifest.json": "441c3fa01f33de76e709598b213a088f",
-"/index.html": "42282823a74219ef09a4c53c3ea2b9a4",
+"/index.html": "c4577c37aa83a6ad9efd2f13b6493d40",
 "/main.dart.js": "e1db3a5b1384a8d0866662ad53a8e598"
 };
 
